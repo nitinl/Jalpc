@@ -1,18 +1,18 @@
 # links section data
-- last_name: Name 1
+- last_name: Email
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc: Reach out if you have data science projects I can contribute to.
+  website: mailto:lnitin94@gmail.com
+  email: lnitin94@gmail.com
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jack003.com/donate/
-  email: me@jack003.com
+- last_name: LinkedIn
+  first_name:
+  desc: LinkedIn profile
+  website: https://in.linkedin.com/in/nitinlabhishetty
+  email:
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: GitHub
+  first_name:
+  desc: Open Source work
+  website: https://github.com/nitinl
+  email:
